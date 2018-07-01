@@ -3,48 +3,6 @@
 <!-- Banner -->
 <section id="banner">
 
-    <div class="video-container">
-        <video autostart="1" autoplay loop="true" id="video" width="1280" height="720">
-            <source type="video/mp4" src="https://r1---sn-5hne6ns6.googlevideo.com/videoplayback?id=03e26183a1948552&itag=22&source=picasa&begin=0&requiressl=yes&pl=25&sc=yes&ei=Ucg4W8viL4i-VdD5o4gF&susc=ph&app=fife&mime=video/mp4&lmt=1518953470596101&ip=86.185.12.245&ipbits=8&expire=1530455153&sparams=app,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,sc,source,susc&signature=2A8E40FFA50824011F6EB1C3AAFD74EDE84F84F4.784A795EBA3C3C9DB7718CCA78F2F253E8B19A65&key=cms1&redirect_counter=1&cm2rm=sn-aigesl7e&req_id=f60083ab314da3ee&cms_redirect=yes&mm=34&mn=sn-5hne6ns6&ms=ltu&mt=1530447862&mv=m">
-        </video>
-
-        <script>
-            $(document).ready(function(){
-                function bindReplay($video) {
-                    $video.on('ended', function(e){
-                        $video.remove();
-                        $video = $video.clone();
-                        bindReplay($video);
-                        $('.vide-container').append($video);
-                    });
-                }
-                var $video = $('.video-container video');
-                bindReplay($video);
-            });
-            var vids = document.getElementsByClassName('_autoplay_vid');
-
-            for (var i = vids.length - 1; i >= 0; i--) {
-                //pause all the videos by default
-                vids[i].pause();
-            }
-
-            window.onscroll = autoplay;
-
-            function autoplay(){
-                for (var i = vids.length - 1; i >= 0; i--) {
-                    var currentYpos = window.pageYOffset || document.documentElement.scrollTop;
-                    if ( currentYpos >= vids[i].offsetTop && currentYpos <= vids[i].offsetTop + vids[i].offsetHeight ) {
-                        vids[i].play();
-                    }else{
-                        vids[i].pause();
-                    }
-                }
-            }
-
-        </script>
-    </div>
-
-
     <!--
         ".inner" is set up as an inline-block so it automatically expands
         in both directions to fit whatever's inside it. This means it won't
