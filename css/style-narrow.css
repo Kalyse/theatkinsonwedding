@@ -32,7 +32,9 @@
 	}
 
 /* Wrapper */
-
+ul.featured-icons {
+    display: none;
+}
 	.wrapper {
 		margin-bottom: 3em;
 		padding: 3em 2.5em;
@@ -47,7 +49,7 @@
 		}
 
 		.wrapper.style2 {
-			background-size: 15em;
+
 		}
 
 		.wrapper.style4 {

@@ -572,8 +572,8 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
-			background-image: url("https://images.typeform.com/images/v9AMTAzhNb");
+			background-color: #e7e4dd;
+			background-image: url("../images/v9AMTAzhNb.jpg");
 			background-position: center;
 			background-repeat: no-repeat, no-repeat;
 			background-size: cover;
@@ -904,12 +904,12 @@
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/mk.JPG");
-		background-position: top left, top right, top left, bottom center;
+		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("https://lh3.googleusercontent.com/DrI-su808s_sBev5LmRQgZcMmNDhTs0jqMKKnoYbX3U7Ct6kc7sdjWlYAOt3v43RHL57bPGnF915FyY6Scz31DxsksGHQY4fw6zF7D1eJDX97c3yRcEIyVrQyLXX3W-84Q9Bn_0ik_bEJASGCWprIX00z8u4hHGd7IvT8odvYWUfFkwAY7DcjupP2Mw1qD47jPKJf6kJ33NeZ5GSjNGcdxGj8SasgzyMQNdnswYLw5K-ojjyyJq2HpTSUPDnXMWdWEhpocLwYa0pSljO7holQuD3SvUj7HbbLyPa39yhuQH0PYraig1ZAx3X_7COwF8Gg-1d8lnPO5I_AltJmmeZN9QVA1Fdj_YHoeClEQ7UGzrcnCuH8Ih1rd4eaj3yscJNSQgJqq9cb6jfa-8UTt137QTB3dj0k3c8h1hp9Yeq25_RA4fMEAjfi2IHRMoQ2hKo_nsZgsm5Q9K5jmzSg9Go0xLuwkpW65FeNnr2Q5o-QZ_t6Ge4khF7qSv_P1Yr8JVIbpAs07Of4UOaWlMl77DxO5BETEIKPmXuTbuaRHKvzcOtXVrnOI3C1MlFElHMFvns5guLbjVNSuSZaduLQXZkShOc4u_hjd2gRxkI6-Si=w1288-h966-no");
+		background-position: top left, top right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
 		color: white;
-		padding: 5em;
+		padding: 15em;
 		text-align: center;
 	}
 
@@ -983,7 +983,7 @@
 		}
 
 		#topButton .toggle:after {
-			background: rgba(163, 169, 170, 0.75);
+			background: rgba(40, 94, 105, 0.75);
 			border-radius: 0 0 4px 4px;
 			content: '';
 			height: 30px;
