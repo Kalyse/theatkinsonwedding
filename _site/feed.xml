@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MK2016</title>
-    <description>Madeleine and Kent's wedding website
+    <title>C&amp;M2018</title>
+    <description>Chris and Mica's Wedding Website
 </description>
     <link>http://localhost:4000/wedding/</link>
     <atom:link href="http://localhost:4000/wedding/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Jul 2018 19:20:38 +0100</pubDate>
-    <lastBuildDate>Sun, 01 Jul 2018 19:20:38 +0100</lastBuildDate>
+    <pubDate>Sun, 08 Jul 2018 09:55:13 +0100</pubDate>
+    <lastBuildDate>Sun, 08 Jul 2018 09:55:13 +0100</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
