@@ -4,15 +4,6 @@
     <list default="true" id="ad075c45-41ee-4fb9-a39c-89679b1b0c16" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/08/31/morbi-a-semper.html" afterPath="$PROJECT_DIR$/_site/2014/08/31/morbi-a-semper.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog.html" afterPath="$PROJECT_DIR$/_site/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/duis/2014/09/07/duis-in-purus.html" afterPath="$PROJECT_DIR$/_site/duis/2014/09/07/duis-in-purus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/first-post.html" afterPath="$PROJECT_DIR$/_site/first-post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/no-sidebar.html" afterPath="$PROJECT_DIR$/_site/no-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/" />
@@ -48,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="410">
@@ -64,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
@@ -202,8 +193,8 @@
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_includes/banner.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -341,7 +332,7 @@
       <updated>1530437986114</updated>
       <workItem from="1530437989805" duration="9358000" />
       <workItem from="1530452483220" duration="2516000" />
-      <workItem from="1531038064668" duration="1928000" />
+      <workItem from="1531038064668" duration="1988000" />
     </task>
     <task id="LOCAL-00001" summary="Updates.">
       <created>1530452492499</created>
@@ -371,11 +362,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530469243303</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update Year.">
+      <created>1531040125622</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531040125622</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13802000" />
+    <option name="totallyTimeSpent" value="13862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
@@ -779,14 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
@@ -798,6 +788,14 @@
             <element signature="n#style#0;n#a#0;n#strong#1;n#p#2;n#div#0;n#div#0;n#section#0;n#article#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ins#0;n#section#1;n#header#0;n#article#3;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
